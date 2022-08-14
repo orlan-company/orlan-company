@@ -1,3 +1,0 @@
-User-agent: YandexBot,Googlebot
-Crawl-delay: 1
-Host: https://orlan-company.github.io/repo/
