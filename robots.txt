@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap: https://orlan-company.github.io/sitemap.xml
+
+
+
